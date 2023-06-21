@@ -1,0 +1,29 @@
+.book
+{
+    width:80%;
+    height: 80%;
+
+}
+.captain,.container
+{
+    width:97%;
+  padding-bottom: 5em !important; 
+}
+.captain
+{
+    background-color: rgb(228, 220, 220);
+}
+.btn
+{
+    top:50%;
+    transform: translate(-50%);
+    left:50%;
+}
+h3 ,span
+{
+    color: #AAA;
+}
+.footer,.contain
+{
+    background:linear-gradient( rgb(228, 220, 220),white);
+}
